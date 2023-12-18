@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462358950487",
+    "project_id": "sih23audiometer",
+    "storage_bucket": "sih23audiometer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462358950487:android:978293314af9e5b2bfe912",
+        "android_client_info": {
+          "package_name": "com.example.sih_23_audiometer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoekT6atzuU9F8Wzpi3TIoCe-7609Z8kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
